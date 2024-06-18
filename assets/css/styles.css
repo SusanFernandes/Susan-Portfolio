@@ -587,10 +587,12 @@
     position: absolute;
     top: 0;
     left: 0;
+
     transform: translate(15px, -25px);
     background: var(--bg-gradient-onyx);
-    border-radius: 14px;
+    border: 2px solid #948f92;
     box-shadow: var(--shadow-1);
+    border-radius: 25px;
   }
   
   .experience-item-title { margin-bottom: 7px; }
